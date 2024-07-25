@@ -1,1 +1,2 @@
 This is new file for git courses
+Add another file to folder and commit it.
